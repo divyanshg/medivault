@@ -1,0 +1,31 @@
+{
+  "translation": {
+    "Verify OTP": "Verify OTP",
+    "Turn on notifications?": "Turn on notifications?",
+    "We've sent a 4 digit code to your phone number. Please enter it": "We've sent a 4 digit code to your phone number. Please enter it",
+    "Something went wrong. Please try again.": "Something went wrong. Please try again.",
+    "4 digit code": "4 digit code",
+    "Login or Sign up": "Login or Sign up",
+    "Phone number": "Phone number",
+    "We'll send you a code to verify your phone number. Standard message and data rates apply.": "We'll send you a code to verify your phone number. Standard message and data rates apply.",
+    "Continue": "Continue",
+    "Don't miss on important messages like access requests, new messages, and account updates.": "Don't miss on important messages like access requests, new messages, and account updates.",
+    "Yes, notify me": "Yes, notify me",
+    "Skip": "Skip",
+    "Logout": "Logout",
+    "Required": "Required",
+    "Please enter a valid phone number": "Please enter a valid phone number",
+    "Please enter a valid OTP": "Please enter a valid OTP",
+    "Medivault": "Medivault",
+    "Change language to": "Change language to",
+    "Add Records": "Add Records",
+    "Change Language": "Change Language",
+    "Home": "Home",
+    "My Records": "My Records",
+    "Profile": "Profile",
+    "Consent Requests": "Consent Requests",
+    "Select Language": "Select Language",
+    "Language changed": "Language Changed",
+    "Language changed to": "Language Changed to {{language}}"
+  }
+}
