@@ -22,7 +22,7 @@ const RootStack = () => {
           screenOptions={{
             headerShown: false,
           }}
-          initialRouteName="choose-records"
+          initialRouteName="home"
         >
           <Stack.Screen name="home" component={HomeDrawer} />
           <Stack.Screen name="add-record" component={AddRecord} />
