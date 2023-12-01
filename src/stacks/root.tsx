@@ -5,6 +5,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 import LocalAuth from '../contexts/localAuth';
 import AddRecord from '../pages/AddRecord';
+import ChooseRecords from '../pages/ChooseRecords';
 import NotificationAccess from '../pages/NotificationAccess';
 import Record from '../pages/Record';
 import RecordView from '../pages/Record/RecordView';
@@ -21,12 +22,14 @@ const RootStack = () => {
           screenOptions={{
             headerShown: false,
           }}
+          initialRouteName="choose-records"
         >
           <Stack.Screen name="home" component={HomeDrawer} />
           <Stack.Screen name="add-record" component={AddRecord} />
           <Stack.Screen name="scanner" component={Scanner} />
           <Stack.Screen name="record" component={Record} />
           <Stack.Screen name="record-view" component={RecordView} />
+          <Stack.Screen name="choose-records" component={ChooseRecords} />
           <Stack.Screen
             name="notification-access"
             component={NotificationAccess}
